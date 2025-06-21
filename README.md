@@ -1,5 +1,5 @@
 # Hey, I'm **Atal Kumar**   
-From Haryana, India 🇮🇳
+From Haryana, India
 
 ---
 
