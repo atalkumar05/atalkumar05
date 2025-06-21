@@ -22,7 +22,7 @@ Yeah, the course was kinda outdated 👀, but it gave me a solid **foundation** 
 
 ## 🛠️ Right Now
 
-- Working on mastering **C++**
+- Working on mastering **C++**, Check out my [C++ Primer Repo](https://github.com/atalkumar05/cpp_primer)
 - Building cool things as I learn Dev
 - Constantly exploring new skills and tech
 
