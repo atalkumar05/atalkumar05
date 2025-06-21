@@ -10,6 +10,6 @@ The BCA's journey was quite something : learned alot about fundamentals, program
 
 ---
 
-**Currently**, I'm working on C++ and Dev & learining new skills...
+**Currently**, I'm working on C++ and Dev & learning new skills...
 
 **Next step** : To do Master's in Computer Application
